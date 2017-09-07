@@ -2,10 +2,16 @@
   "name": "react-redux-todolist",
   "version": "0.1.0",
   "private": true,
+  "author": "bathpp",
+  "license": "MIT",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-scripts": "1.0.12"
+    "react-scripts": "1.0.12",
+    "react-redux": "^5.0.5",
+    "react-router": "^4.1.2",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
